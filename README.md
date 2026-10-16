@@ -101,6 +101,7 @@ quantified roughly as follows:
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 * [Pandas practice website](https://pandaspractice.com/)
 * [Bamboo Weekly](https://www.bambooweekly.com/about/) - weekly practice exercises using real-world data, with detailed solutions and downloadable notebooks
+* [EcoFinLearn](https://ecofinlearning.com/learn/python-pandas) - free in-browser pandas lessons on financial time series (returns, rolling statistics, volatility), running on Pyodide with no install or signup
 
 
 ### (1.4) :blue_book: Books / papers
